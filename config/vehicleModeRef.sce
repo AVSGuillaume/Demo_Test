@@ -132,6 +132,36 @@
           <isLeft>0</isLeft>
           <unit>rpm</unit>
         </Curve>
+        <Curve>
+          <chanel>14811136</chanel>
+          <isLeft>1</isLeft>
+          <unit>km/h</unit>
+        </Curve>
+        <Curve>
+          <chanel>4718592</chanel>
+          <isLeft>1</isLeft>
+          <unit>°</unit>
+        </Curve>
+        <Curve>
+          <chanel>4980736</chanel>
+          <isLeft>1</isLeft>
+          <unit>%</unit>
+        </Curve>
+        <Curve>
+          <chanel>5111808</chanel>
+          <isLeft>1</isLeft>
+          <unit>daN</unit>
+        </Curve>
+        <Curve>
+          <chanel>5505024</chanel>
+          <isLeft>1</isLeft>
+          <unit>%</unit>
+        </Curve>
+        <Curve>
+          <chanel>2752512</chanel>
+          <isLeft>0</isLeft>
+          <unit>rpm</unit>
+        </Curve>
       </ResultsGraph>
     </ProgressDlg>
     <Recording>
